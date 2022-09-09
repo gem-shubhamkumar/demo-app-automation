@@ -6,7 +6,6 @@ import com.gemini.generic.utils.Constants;
 import com.gemini.generic.utils.ConstantsVariables;
 import com.gemini.reporting.GemTestReporter;
 import com.gemini.reporting.STATUS;
-import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
@@ -52,6 +51,8 @@ public class PlaceOrder {
                 ConstantsVariables.productName =
                         MobileAction.getElementsText(Locators.label_productName).get(i);
                 MobileAction.click(MobileAction.getElements(Locators.label_productName).get(i), product);
+
+//                MobileDriverManager.getAppiumDriver().findElements(Locators.label_productName).get(i).click();
                 break;
             }
         }

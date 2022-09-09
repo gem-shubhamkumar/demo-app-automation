@@ -11,7 +11,8 @@ import org.junit.runner.RunWith;
         plugin = {  "html:target/cucumber.html","json:target/cucumber.json" ,"pretty"},
         monochrome = true,
         dryRun = false,
-        tags = "@demo_app"
+        tags = "@webview"
 )
 public class TestRunner {
+
 }

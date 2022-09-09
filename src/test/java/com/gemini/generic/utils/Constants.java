@@ -14,6 +14,14 @@ public class Constants {
     public static final String  EMPTY_CART_MESSAGE = "No Items";
     public static final String PRODUCT_PAGE_WRONG_TITLE = "Wrong Title";
 
+    public static final String GOOGLE = "https://www.google.com";
+    public static final String GITHUB = "https://www.github.com";
+    public static final String HACKERRANK = "https://www.hackerrank.com";
+    public static final String GFG = "https://www.geeksforgeeks.org";
 
+    public static final String GOOGLE_TITLE = "Google";
+    public static final String GITHUB_TITLE = "GitHub: Where the world builds software · GitHub";
+    public static final String HACKERRANK_TITLE = "HackerRank";
+    public static final String GFG_TITLE = "GeeksforGeeks | A computer science portal for geeks";
 
 }

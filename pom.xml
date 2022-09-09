@@ -19,6 +19,10 @@
             <groupId>MobileGemJar</groupId>
             <artifactId>MobileGemJar</artifactId>
             <version>0.0.1-SNAPSHOT</version>
+
+<!--            <groupId>com.gemini.generic</groupId>-->
+<!--            <artifactId>Mobile-Automation-Framework</artifactId>-->
+<!--            <version>1.0-SNAPSHOT</version>-->
         </dependency>
     </dependencies>
 

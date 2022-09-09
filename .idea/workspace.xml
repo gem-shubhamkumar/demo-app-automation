@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4328a447-b340-4229-b544-875530137b04" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/gemini/generic/locators/Locators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gemini/generic/locators/Locators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/gemini/generic/runner/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gemini/generic/runner/TestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/gemini/generic/stepDefinitions/PlaceOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gemini/generic/stepDefinitions/PlaceOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/gemini/generic/utils/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gemini/generic/utils/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/gemini/generic/utils/ConstantsVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gemini/generic/utils/ConstantsVariables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/AppiumSample.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/AppiumSample.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,11 +44,12 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Shubham/IntelliJ/Demo-WS/demo-app-automation/src/test/resources/features"
+    "last_opened_file_path": "C:/Shubham/IntelliJ/Demo-WS/demo-app-automation/src/test/java/com/gemini/generic/stepDefinitions"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Shubham\IntelliJ\Demo-WS\demo-app-automation\src\test\java\com\gemini\generic\stepDefinitions" />
       <recent name="C:\Shubham\IntelliJ\Demo-WS\demo-app-automation\src\test\resources\features" />
       <recent name="C:\Shubham\IntelliJ\Demo-WS\demo-app-automation\app" />
       <recent name="C:\Shubham\IntelliJ\Demo-WS\demo-app-automation\src\test\resources" />

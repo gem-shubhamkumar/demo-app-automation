@@ -10,6 +10,7 @@ public class Locators {
     public static By list_login = AppiumBy.accessibilityId("menu item log in");
     public static By list_logout = AppiumBy.accessibilityId("menu item log out");
     public static By list_catalog = AppiumBy.accessibilityId("menu item catalog");
+    public static By list_webview = AppiumBy.accessibilityId("menu item webview");
 
 
     //    Login Page
@@ -74,5 +75,9 @@ public class Locators {
     //    Confirm Page
     public static By label_confirmTitle = AppiumBy.xpath("//android.view.ViewGroup[@content-desc=\"checkout complete screen\"]/android.widget.ScrollView/android.view.ViewGroup/android.widget.TextView[1]");
 
+    // Web View Page
+    public static By label_webViewPage = AppiumBy.xpath("//android.view.ViewGroup[@content-desc=\"container header\"]/android.widget.TextView");
+    public static By input_url = AppiumBy.accessibilityId("URL input field");
+    public static By btn_goToSite = AppiumBy.accessibilityId("Go To Site button");
 
 }
